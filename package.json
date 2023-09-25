@@ -20,5 +20,9 @@
     "svelte": "^4.2.1",
     "typescript": "^5.2.2",
     "vite": "^4.4.9"
+  },
+  "dependencies": {
+    "@builder.io/sdk-svelte": "^0.6.2",
+    "@kahi-ui/framework": "^0.6.4"
   }
 }
